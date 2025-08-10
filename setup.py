@@ -9,5 +9,5 @@ setup(
     ],
     description="A small tool to display Vimeo fullscreen links in Jupyter notebooks.",
     author="Chaker Saidi",
-    url="https://github.com/YOUR_GITHUB_USERNAME/fullscreen",  # change later
+    url="https://github.com/chaker88/fullscreen",
 )
